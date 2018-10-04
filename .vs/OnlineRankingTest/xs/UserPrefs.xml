@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4B5F9893-3099-FF11-1689-297F357EC6EC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrirts/ScoreSceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scrirts/GameManager.cs" Line="15" Column="34" />
+      <File FileName="Assets/Scrirts/ScoreSceneManager.cs" Line="13" Column="16" />
+      <File FileName="Assets/Scrirts/StartSceneManager.cs" Line="54" Column="40" />
+      <File FileName="Assets/Scrirts/OnlineRankingManager.cs" Line="46" Column="55" />
+      <File FileName="Assets/NCMB/Script/NCMBConnection.cs" Line="112" Column="1" />
+      <File FileName="Assets/NCMB/Script/NCMBObject.cs" Line="200" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
